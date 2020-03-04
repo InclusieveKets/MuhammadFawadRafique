@@ -12,5 +12,5 @@ My name is Muhammad Fawad Rafique. I am passionated about new technologies. I ha
 * Intend to follow Web Development course
 
 
-[![Masala site](/images/masala.png)](http://masalagent.be)
+[![Masala site](../session1/images/masala.png)](http://masalagent.be)
 
