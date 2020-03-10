@@ -1,16 +1,30 @@
-# **About Me**
+# Week 1
 
-My name is Muhammad Fawad Rafique. I am passionated about new technologies. I have an experienced in automotive industry, as the technology is growing rapidly.
+![FABLab Logo](../session1/assets/images/Fab_Lab_logo.png)
 
+The first week was an introductory session of FAB Academy, we learned about the history of FABLab and the basic concept behind this program. We studied distributed version control and markup language. I am using Git to commit all my progress to GitHub. Below you would find an easy to use syntax of Markdown.
 
-##  **Things I am doing now**
-* Learning Nederlands
-* Following FABLab workshop
+## Markdown
+```markdown
+Syntax highlighted code block
 
+# Header 1
+## Header 2
+### Header 3
 
-##  **Things I want to do in future**
-* Intend to follow Web Development course
+* Bulleted
+* List
 
+1. Numbered
+2. List
 
-[![Masala site](../session1/images/masala.png)](http://masalagent.be)
+**Bold** 
+_Italic_
+** _ italic bold _ **
+~strikethrough~
+`Code` text
 
+[Link](url) 
+![Image](src)
+```
+Source: [MaakBib](http://maakbib.be/activiteit-toevoegen-aan-maakbib/)
